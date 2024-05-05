@@ -1,0 +1,7 @@
+############## To train any of the YOLOv8 models, we use the train.py provided by mmdetection.
+############## If there is a GPU available on your system, just run one of the following commands:
+
+python mmyolo/tools/train.py configs/yolov8/yolov8_s.py --work-dir ./work_dirs/pig_models/yolov8_s
+python mmyolo/tools/train.py configs/yolov8/yolov8_m.py --work-dir ./work_dirs/pig_models/yolov8_m
+python mmyolo/tools/train.py configs/yolov8/yolov8_l.py --work-dir ./work_dirs/pig_models/yolov8_l
+python mmyolo/tools/train.py configs/yolov8/yolov8_x.py --work-dir ./work_dirs/pig_models/yolov8_x

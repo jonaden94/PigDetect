@@ -1,0 +1,4 @@
+############## To train Co-Dino on 4 GPUs, we use the dist_train.sh file, which relies on the torch.distributed functionality.
+############## If 4 GPUs are available on your system, just run the following command:
+
+bash tools/train/dist_train.sh configs/co-detr/co_dino_swin.py 4 ./work_dirs/pig_models/co_dino_swin

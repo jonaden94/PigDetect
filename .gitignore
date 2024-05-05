@@ -1,0 +1,12 @@
+# data related stuff
+data/PigDetect
+data/pretrained_weights
+data/evaluation
+
+# checkpoints and training logs
+work_dirs
+
+# file types to ignore in general
+*/__pycache__
+**.pth
+**.egg-info

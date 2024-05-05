@@ -1,0 +1,8 @@
+############## To train any of the YOLOX models, we use the train.py provided by mmdetection.
+############## If there is a GPU available on your system, just run one of the following commands:
+
+
+python mmyolo/tools/train.py configs/yolox/yolox_s_rtmdet_hyp.py --work-dir ./work_dirs/pig_models/yolox_s_rtmdet_hyp
+python mmyolo/tools/train.py configs/yolox/yolox_m_rtmdet_hyp.py --work-dir ./work_dirs/pig_models/yolox_m_rtmdet_hyp
+python mmyolo/tools/train.py configs/yolox/yolox_l.py --work-dir ./work_dirs/pig_models/yolox_l
+python mmyolo/tools/train.py configs/yolox/yolox_x.py --work-dir ./work_dirs/pig_models/yolox_x

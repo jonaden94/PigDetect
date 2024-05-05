@@ -1,0 +1,6 @@
+[submodule "mmdetection"]
+	path = mmdetection
+	url = https://github.com/open-mmlab/mmdetection
+[submodule "mmyolo"]
+	path = mmyolo
+	url = https://github.com/open-mmlab/mmyolo
