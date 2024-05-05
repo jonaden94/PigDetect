@@ -1,5 +1,5 @@
 ############## 1) create environment with torch
-ENV_NAME='detection_test'
+ENV_NAME='detection'
 conda env remove -n $ENV_NAME -y
 conda create -n $ENV_NAME python=3.8 -y
 conda activate $ENV_NAME
