@@ -30,7 +30,7 @@ Then, you can use mmdetection functionality to load the models and use them for 
 
 ## Training
 
-To use mmdetection/mmyolo tools for the training of pig detection models, you need to download the PigDetect benchmark dataset and the train/val/test annotation files. Furthermore, to reproduce the results presented in the related paper, you need to download the model checkpoints pre-trained on COCO. Feel free to add further training data or use other train/val splits for your application at hand.
+To use mmdetection/mmyolo tools for the training of pig detection models, you need to download the PigDetect benchmark dataset and the train/val/test annotation files. Furthermore, to reproduce the results presented in the related paper, you need to download the model checkpoints pre-trained on COCO (taken from model zoos of [mmdetection](https://mmdetection.readthedocs.io/en/latest/model_zoo.html) and [mmyolo](https://mmyolo.readthedocs.io/en/latest/model_zoo.html)). Feel free to add further training data or use other train/val splits for your application at hand.
 
 | Files        | Download                                             | Size |
 | ----------- | :----------------------------------------------------------- | ------------ |
