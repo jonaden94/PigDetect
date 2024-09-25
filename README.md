@@ -1,7 +1,7 @@
 # PigDetect: a diverse and challenging benchmark dataset for the detection of pigs in images
 ![stiched_image](https://github.com/jonaden94/PigDetect/assets/89035418/39464663-080c-4dc7-9873-a30a21195b87)
 
-This is the codebase associated with the ECPLF 2024 paper titled 'PigDetect: A Diverse and Challenging Benchmark Dataset for the Detection of Pigs in Images'. It provides functionality for training and inference of pig detection models. All commands in this readme must be run while being in the root directory of this repository.
+This is the codebase associated with the ECPLF 2024 paper titled 'PigDetect: A Diverse and Challenging Benchmark Dataset for the Detection of Pigs in Images'. It provides functionality for training and inference of pig detection models. All commands in this readme must be run while being in the root directory of this repository. The dataset and pre-trained model weights associated with this work are available [here](https://doi.org/10.25625/I6UYE9) and can be downloaded using the commands provided [here](#training).
 
 ## Setup
 
