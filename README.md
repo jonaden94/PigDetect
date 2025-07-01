@@ -72,8 +72,9 @@ The evaluation commands for all further models trained by us can be found under 
 
 ## Acknowledgements
 
-This work was funded with NextGenerationEU funds from the European Union by the Federal Ministry of Education and Research under the funding code 16DKWN038. The responsibility for the content of this publication lies with the authors.
+This work was funded with NextGenerationEU funds from the European Union by the Federal Ministry of Research, Technology and Space under the funding code 16DKWN038. The responsibility for the content of this publication lies with the authors.
 
-![combined_image](https://github.com/jonaden94/PigDetect/assets/89035418/812c4f7b-13fd-4493-8347-3be8d50c22b4)
+![combined](https://github.com/user-attachments/assets/0722f465-a91d-4d2d-a2ce-89b09fc445d0)
+
 
 
