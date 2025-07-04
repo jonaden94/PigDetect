@@ -1,3 +1,5 @@
+## *Note that this repository represents an older version of our work. The current code that also includes pig tracking functionality can be found [here](https://github.com/jonaden94/PigBench)*
+
 # PigDetect: a diverse and challenging benchmark dataset for the detection of pigs in images
 ![stiched_image](https://github.com/jonaden94/PigDetect/assets/89035418/39464663-080c-4dc7-9873-a30a21195b87)
 
